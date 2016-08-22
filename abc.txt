@@ -1,6 +1,9 @@
 {
-"person" : {
+"person" : [{
 "name" : "nhan"
 "age" :22
+},"name" : "nhan"
+"age" :22
 }
+]
 }
